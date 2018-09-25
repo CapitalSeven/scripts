@@ -7,3 +7,4 @@ echo "[+] Distribution up to date."
 read-p "[-] Install your virtualization tool suite manually, y\' bum."
 ## TODO ##
 # detect hypervisor and install appropriate tools/guest-additions
+# install terminator >> import saved layout file?
