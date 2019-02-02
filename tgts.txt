@@ -1,4 +1,7 @@
 # add . /path/to/scripts/tgts.txt" to .bashrc file
+
+#ACTIVE
+
 prefix="10.10.10."
 access="${prefix}98"
 bighead="${prefix}112"
